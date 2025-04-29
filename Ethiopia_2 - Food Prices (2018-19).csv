@@ -1,0 +1,686 @@
+t,m,j,u,Price
+2018-19,Addis Ababa,Avocado,Kg,25.86463987
+2018-19,Addis Ababa,Banana,Kg,25.67704918
+2018-19,Addis Ababa,Barley,Kg,35.19110384
+2018-19,Addis Ababa,Beef,Kg,237.6683416
+2018-19,Addis Ababa,Beer,Kg,59.89351199
+2018-19,Addis Ababa,Beetroot,Kg,19.54091837
+2018-19,Addis Ababa,Berbere,Kg,114.140874
+2018-19,Addis Ababa,Bread/biscuit,Kg,16.26733242
+2018-19,Addis Ababa,Bula,Kg,69.62069184
+2018-19,Addis Ababa,Butter/ghee,Kg,393.6781249
+2018-19,Addis Ababa,Carrot,Kg,23.71088651
+2018-19,Addis Ababa,Chat/Kat,Kg,257.3016059
+2018-19,Addis Ababa,Cheese,Kg,103.9690193
+2018-19,Addis Ababa,Chick Pea,Kg,42.90741217
+2018-19,Addis Ababa,Coffee,Kg,118.5087712
+2018-19,Addis Ababa,Eggs,Kg,19.67315007
+2018-19,Addis Ababa,Fenugreek,Kg,113.4705823
+2018-19,Addis Ababa,Field Pea,Kg,41.37784236
+2018-19,Addis Ababa,Fish,Kg,135.4875589
+2018-19,Addis Ababa,Garlic,Kg,87.82182824
+2018-19,Addis Ababa,Goat & mutton meat,Kg,575.6596255
+2018-19,Addis Ababa,Ground nuts,Kg,94.54611069
+2018-19,Addis Ababa,Haricot Beans,Kg,23
+2018-19,Addis Ababa,Honey,Kg,240.117355
+2018-19,Addis Ababa,Hops (gesho),Kg,7.471049555
+2018-19,Addis Ababa,Horsebeans,Kg,35.56720495
+2018-19,Addis Ababa,Injera,Kg,22.67963215
+2018-19,Addis Ababa,Kariya,Kg,25.4062513
+2018-19,Addis Ababa,Kocho,Kg,56.84225499
+2018-19,Addis Ababa,Leafy Greens,Kg,16.69290694
+2018-19,Addis Ababa,Lentils,Kg,72.13035695
+2018-19,Addis Ababa,Linseed,Kg,93.87440416
+2018-19,Addis Ababa,Maize,Kg,17.93922554
+2018-19,Addis Ababa,Mango,Kg,33.13982195
+2018-19,Addis Ababa,Milk,Kg,62.35983147
+2018-19,Addis Ababa,Moringa/Shiferaw/Halloka,Kg,133.333327
+2018-19,Addis Ababa,Niger Seed,Kg,103.087474
+2018-19,Addis Ababa,Oats,Kg,46.50822258
+2018-19,Addis Ababa,Oils,Kg,81.74117152
+2018-19,Addis Ababa,Onion,Kg,24.34715346
+2018-19,Addis Ababa,Orange,Kg,38.47716216
+2018-19,Addis Ababa,Other condiments,Kg,79.68253904
+2018-19,Addis Ababa,Other fruit,Kg,82.22222134
+2018-19,Addis Ababa,Other prepared food,Kg,26
+2018-19,Addis Ababa,Papaya,Kg,30.24149634
+2018-19,Addis Ababa,Pasta/Macaroni,Kg,32.87507978
+2018-19,Addis Ababa,Potato,Kg,14.41508164
+2018-19,Addis Ababa,Poultry,Kg,644.4855304
+2018-19,Addis Ababa,Rice,Kg,30.28197853
+2018-19,Addis Ababa,Salt,Kg,22.83927521
+2018-19,Addis Ababa,Sesame,Kg,201.2500002
+2018-19,Addis Ababa,Shiro,Kg,67.7198368
+2018-19,Addis Ababa,Soda,Kg,44.29359073
+2018-19,Addis Ababa,Sorghum,Kg,21.64646452
+2018-19,Addis Ababa,Sugar,Kg,28.87607098
+2018-19,Addis Ababa,Sun Flower,Kg,54.21212104
+2018-19,Addis Ababa,Sweet potato,Kg,22.9456288
+2018-19,Addis Ababa,Tea,Kg,70.40450913
+2018-19,Addis Ababa,Teff,Kg,31.34742691
+2018-19,Addis Ababa,Tella,Kg,20
+2018-19,Addis Ababa,Tomato,Kg,16.9823564
+2018-19,Addis Ababa,Vetch,Kg,39.33333333
+2018-19,Addis Ababa,Wheat,Kg,22.39974465
+2018-19,Afar,Avocado,Kg,24.84794277
+2018-19,Afar,Banana,Kg,28.17839596
+2018-19,Afar,Barley,Kg,31.79737086
+2018-19,Afar,Beef,Kg,314.2857143
+2018-19,Afar,Beer,Kg,57.69875523
+2018-19,Afar,Beetroot,Kg,24.13494995
+2018-19,Afar,Berbere,Kg,98.0867104
+2018-19,Afar,Bread/biscuit,Kg,72.95750828
+2018-19,Afar,Bula,Kg,47.49999981
+2018-19,Afar,Butter/ghee,Kg,328.5761772
+2018-19,Afar,Carrot,Kg,29.33768603
+2018-19,Afar,Chat/Kat,Kg,204.2550204
+2018-19,Afar,Cheese,Kg,158.7301562
+2018-19,Afar,Chick Pea,Kg,48.79978312
+2018-19,Afar,Coffee,Kg,236.5883095
+2018-19,Afar,Eggs,Kg,17.44232665
+2018-19,Afar,Fenugreek,Kg,103.7289713
+2018-19,Afar,Field Pea,Kg,34.28293113
+2018-19,Afar,Garlic,Kg,80.792933
+2018-19,Afar,Goat & mutton meat,Kg,377.0472351
+2018-19,Afar,Ground nuts,Kg,37.87842005
+2018-19,Afar,Haricot Beans,Kg,23.99999886
+2018-19,Afar,Honey,Kg,298.5079377
+2018-19,Afar,Hops (gesho),Kg,60
+2018-19,Afar,Horsebeans,Kg,39.54946156
+2018-19,Afar,Injera,Kg,217.7431322
+2018-19,Afar,Kariya,Kg,31.13990268
+2018-19,Afar,Leafy Greens,Kg,31.07521844
+2018-19,Afar,Lentils,Kg,66.72790312
+2018-19,Afar,Linseed,Kg,50.44781078
+2018-19,Afar,Maize,Kg,17.86770381
+2018-19,Afar,Mango,Kg,34.18629754
+2018-19,Afar,Milk,Kg,86.72093468
+2018-19,Afar,Niger Seed,Kg,23.75296891
+2018-19,Afar,Oats,Kg,67.50269836
+2018-19,Afar,Oils,Kg,65.67734317
+2018-19,Afar,Onion,Kg,30.45339053
+2018-19,Afar,Orange,Kg,34.78146832
+2018-19,Afar,Other cereal,Kg,12
+2018-19,Afar,Other prepared food,Kg,278.9894389
+2018-19,Afar,Papaya,Kg,17.44186017
+2018-19,Afar,Pasta/Macaroni,Kg,50.3251334
+2018-19,Afar,Potato,Kg,21.83966994
+2018-19,Afar,Poultry,Kg,382.5581297
+2018-19,Afar,Rice,Kg,30.83379107
+2018-19,Afar,Salt,Kg,22.02235831
+2018-19,Afar,Sesame,Kg,38.31417662
+2018-19,Afar,Shiro,Kg,48.02028223
+2018-19,Afar,Soda,Kg,62.13562848
+2018-19,Afar,Sorghum,Kg,16.78242844
+2018-19,Afar,Sugar,Kg,40.25996286
+2018-19,Afar,Sun Flower,Kg,22.79581526
+2018-19,Afar,Sweet potato,Kg,31.25830992
+2018-19,Afar,Tea,Kg,36.53145698
+2018-19,Afar,Teff,Kg,30.64380102
+2018-19,Afar,Tella,Kg,6.066411298
+2018-19,Afar,Tomato,Kg,24.345323
+2018-19,Afar,Vetch,Kg,41.66666621
+2018-19,Afar,Wheat,Kg,21.65900909
+2018-19,Amhara,Avocado,Kg,22.45454501
+2018-19,Amhara,Banana,Kg,23.64834852
+2018-19,Amhara,Barley,Kg,16.3702156
+2018-19,Amhara,Beef,Kg,309.9082916
+2018-19,Amhara,Beer,Kg,43.21163891
+2018-19,Amhara,Beetroot,Kg,15.32278709
+2018-19,Amhara,Berbere,Kg,93.28112896
+2018-19,Amhara,Bread/biscuit,Kg,15.70686885
+2018-19,Amhara,Butter/ghee,Kg,270.1525765
+2018-19,Amhara,Carrot,Kg,13.83236232
+2018-19,Amhara,Chat/Kat,Kg,216.2663646
+2018-19,Amhara,Cheese,Kg,43.69158865
+2018-19,Amhara,Chick Pea,Kg,33.69912863
+2018-19,Amhara,Coffee,Kg,103.1201672
+2018-19,Amhara,Eggs,Kg,18.30747734
+2018-19,Amhara,Fenugreek,Kg,85.85643323
+2018-19,Amhara,Field Pea,Kg,45.4143635
+2018-19,Amhara,Fish,Kg,160
+2018-19,Amhara,Garlic,Kg,49.7641
+2018-19,Amhara,Goat & mutton meat,Kg,279.4452168
+2018-19,Amhara,Ground nuts,Kg,55.38509326
+2018-19,Amhara,Haricot Beans,Kg,26.03563934
+2018-19,Amhara,Honey,Kg,238.0486365
+2018-19,Amhara,Hops (gesho),Kg,27.96445525
+2018-19,Amhara,Horsebeans,Kg,31.56366968
+2018-19,Amhara,Injera,Kg,32.57713594
+2018-19,Amhara,Kariya,Kg,24.47842903
+2018-19,Amhara,Leafy Greens,Kg,17.47534589
+2018-19,Amhara,Lentils,Kg,64.98318603
+2018-19,Amhara,Linseed,Kg,41.7789448
+2018-19,Amhara,Maize,Kg,11.93549375
+2018-19,Amhara,Mango,Kg,20.41776718
+2018-19,Amhara,Milk,Kg,24.12993747
+2018-19,Amhara,Millet,Kg,21.40283242
+2018-19,Amhara,Niger Seed,Kg,40.99578279
+2018-19,Amhara,Oats,Kg,65.29970264
+2018-19,Amhara,Oils,Kg,76.53040925
+2018-19,Amhara,Onion,Kg,23.66959972
+2018-19,Amhara,Orange,Kg,19.66887245
+2018-19,Amhara,Other condiments,Kg,233.3782496
+2018-19,Amhara,Other fruit,Kg,11.11111067
+2018-19,Amhara,Other prepared food,Kg,31.25581357
+2018-19,Amhara,Other pulse or nut,Kg,45.70852853
+2018-19,Amhara,Other tuber or stem,Kg,26.69776069
+2018-19,Amhara,Papaya,Kg,68.06153891
+2018-19,Amhara,Pasta/Macaroni,Kg,51.94747801
+2018-19,Amhara,Potato,Kg,13.91507846
+2018-19,Amhara,Poultry,Kg,561.8990396
+2018-19,Amhara,Rice,Kg,27.68061717
+2018-19,Amhara,Salt,Kg,29.84781624
+2018-19,Amhara,Sesame,Kg,39.95840759
+2018-19,Amhara,Shiro,Kg,61.59583785
+2018-19,Amhara,Soda,Kg,34.24028676
+2018-19,Amhara,Sorghum,Kg,18.93878278
+2018-19,Amhara,Sugar,Kg,39.43023752
+2018-19,Amhara,Sun Flower,Kg,21.61724633
+2018-19,Amhara,Sweet potato,Kg,20.52238755
+2018-19,Amhara,Tea,Kg,54.22089746
+2018-19,Amhara,Teff,Kg,28.41227801
+2018-19,Amhara,Tella,Kg,8.866398488
+2018-19,Amhara,Tomato,Kg,20.91131835
+2018-19,Amhara,Vetch,Kg,27.32109211
+2018-19,Amhara,Wheat,Kg,21.18730182
+2018-19,Benishangul-Gumuz,Avocado,Kg,24.96084261
+2018-19,Benishangul-Gumuz,Banana,Kg,17.61649197
+2018-19,Benishangul-Gumuz,Barley,Kg,37.79992891
+2018-19,Benishangul-Gumuz,Beef,Kg,200.9231404
+2018-19,Benishangul-Gumuz,Beer,Kg,100.2389614
+2018-19,Benishangul-Gumuz,Beetroot,Kg,23.4057565
+2018-19,Benishangul-Gumuz,Berbere,Kg,72.73316497
+2018-19,Benishangul-Gumuz,Bread/biscuit,Kg,14.2586124
+2018-19,Benishangul-Gumuz,Bula,Kg,99.99999525
+2018-19,Benishangul-Gumuz,Butter/ghee,Kg,196.1807618
+2018-19,Benishangul-Gumuz,Carrot,Kg,22.12832846
+2018-19,Benishangul-Gumuz,Chat/Kat,Kg,159.3509097
+2018-19,Benishangul-Gumuz,Cheese,Kg,99.99999525
+2018-19,Benishangul-Gumuz,Chick Pea,Kg,36.69853898
+2018-19,Benishangul-Gumuz,Coffee,Kg,107.6401319
+2018-19,Benishangul-Gumuz,Eggs,Kg,28.49987215
+2018-19,Benishangul-Gumuz,Fenugreek,Kg,66.24835978
+2018-19,Benishangul-Gumuz,Field Pea,Kg,35.13799037
+2018-19,Benishangul-Gumuz,Fish,Kg,121.8405804
+2018-19,Benishangul-Gumuz,Garlic,Kg,83.96322965
+2018-19,Benishangul-Gumuz,Goat & mutton meat,Kg,295.0447407
+2018-19,Benishangul-Gumuz,Ground nuts,Kg,47.45014376
+2018-19,Benishangul-Gumuz,Haricot Beans,Kg,31.76756657
+2018-19,Benishangul-Gumuz,Honey,Kg,90.83913748
+2018-19,Benishangul-Gumuz,Hops (gesho),Kg,21.70672191
+2018-19,Benishangul-Gumuz,Horsebeans,Kg,30.81655152
+2018-19,Benishangul-Gumuz,Injera,Kg,35.92307727
+2018-19,Benishangul-Gumuz,Kariya,Kg,18.5767561
+2018-19,Benishangul-Gumuz,Kocho,Kg,18.57379705
+2018-19,Benishangul-Gumuz,Leafy Greens,Kg,21.65873102
+2018-19,Benishangul-Gumuz,Lentils,Kg,64.54615856
+2018-19,Benishangul-Gumuz,Linseed,Kg,39.47937545
+2018-19,Benishangul-Gumuz,Maize,Kg,13.01023034
+2018-19,Benishangul-Gumuz,Mango,Kg,15.61094994
+2018-19,Benishangul-Gumuz,Milk,Kg,30.70681743
+2018-19,Benishangul-Gumuz,Millet,Kg,11.86566888
+2018-19,Benishangul-Gumuz,Moringa/Shiferaw/Halloka,Kg,12.18518796
+2018-19,Benishangul-Gumuz,Niger Seed,Kg,37.26336889
+2018-19,Benishangul-Gumuz,Oats,Kg,39.33333286
+2018-19,Benishangul-Gumuz,Oils,Kg,57.8740895
+2018-19,Benishangul-Gumuz,Onion,Kg,135.2215532
+2018-19,Benishangul-Gumuz,Orange,Kg,11.76765081
+2018-19,Benishangul-Gumuz,Other condiments,Kg,76.72374381
+2018-19,Benishangul-Gumuz,Other fruit,Kg,2.499999963
+2018-19,Benishangul-Gumuz,Other prepared food,Kg,58.33333102
+2018-19,Benishangul-Gumuz,Other seed,Kg,140
+2018-19,Benishangul-Gumuz,Other vegetable,Kg,162.8753511
+2018-19,Benishangul-Gumuz,Papaya,Kg,39.58333192
+2018-19,Benishangul-Gumuz,Pasta/Macaroni,Kg,35.02343082
+2018-19,Benishangul-Gumuz,Potato,Kg,13.73277615
+2018-19,Benishangul-Gumuz,Poultry,Kg,783.7463673
+2018-19,Benishangul-Gumuz,Rice,Kg,32.39628208
+2018-19,Benishangul-Gumuz,Salt,Kg,37.26036471
+2018-19,Benishangul-Gumuz,Sesame,Kg,50.42780763
+2018-19,Benishangul-Gumuz,Shiro,Kg,41.236589
+2018-19,Benishangul-Gumuz,Soda,Kg,59.41415802
+2018-19,Benishangul-Gumuz,Sorghum,Kg,34.51348075
+2018-19,Benishangul-Gumuz,Sugar,Kg,38.49466667
+2018-19,Benishangul-Gumuz,Sweet potato,Kg,23.08768615
+2018-19,Benishangul-Gumuz,Tea,Kg,46.75522571
+2018-19,Benishangul-Gumuz,Teff,Kg,32.66718621
+2018-19,Benishangul-Gumuz,Tella,Kg,6.289419806
+2018-19,Benishangul-Gumuz,Tomato,Kg,18.33186741
+2018-19,Benishangul-Gumuz,Vetch,Kg,23.63942832
+2018-19,Benishangul-Gumuz,Wheat,Kg,23.59090903
+2018-19,Dire Dawa,Avocado,Kg,29.79693405
+2018-19,Dire Dawa,Banana,Kg,31.62223079
+2018-19,Dire Dawa,Barley,Kg,26.97407491
+2018-19,Dire Dawa,Beef,Kg,302.8318524
+2018-19,Dire Dawa,Beer,Kg,72.02922521
+2018-19,Dire Dawa,Beetroot,Kg,21.46784391
+2018-19,Dire Dawa,Berbere,Kg,107.153009
+2018-19,Dire Dawa,Bread/biscuit,Kg,13.71099989
+2018-19,Dire Dawa,Bula,Kg,93.82352912
+2018-19,Dire Dawa,Butter/ghee,Kg,264.8858367
+2018-19,Dire Dawa,Carrot,Kg,21.33958762
+2018-19,Dire Dawa,Chat/Kat,Kg,149.7422534
+2018-19,Dire Dawa,Cheese,Kg,120
+2018-19,Dire Dawa,Chick Pea,Kg,37.40731954
+2018-19,Dire Dawa,Coffee,Kg,309.6307917
+2018-19,Dire Dawa,Eggs,Kg,31.42170064
+2018-19,Dire Dawa,Fenugreek,Kg,56.38863418
+2018-19,Dire Dawa,Field Pea,Kg,37.7903426
+2018-19,Dire Dawa,Fish,Kg,68.96278537
+2018-19,Dire Dawa,Garlic,Kg,66.69899014
+2018-19,Dire Dawa,Goat & mutton meat,Kg,278.6251159
+2018-19,Dire Dawa,Ground nuts,Kg,64.94367712
+2018-19,Dire Dawa,Haricot Beans,Kg,30.83660199
+2018-19,Dire Dawa,Honey,Kg,194.7142814
+2018-19,Dire Dawa,Hops (gesho),Kg,12.49999981
+2018-19,Dire Dawa,Horsebeans,Kg,32.44953883
+2018-19,Dire Dawa,Injera,Kg,28.36604994
+2018-19,Dire Dawa,Kariya,Kg,20.70889268
+2018-19,Dire Dawa,Kocho,Kg,12
+2018-19,Dire Dawa,Leafy Greens,Kg,14.74144418
+2018-19,Dire Dawa,Lentils,Kg,63.95839088
+2018-19,Dire Dawa,Linseed,Kg,59.74170045
+2018-19,Dire Dawa,Maize,Kg,18.31463017
+2018-19,Dire Dawa,Mango,Kg,26.70031494
+2018-19,Dire Dawa,Milk,Kg,74.51510234
+2018-19,Dire Dawa,Moringa/Shiferaw/Halloka,Kg,999.9999525
+2018-19,Dire Dawa,Niger Seed,Kg,39.9999981
+2018-19,Dire Dawa,Oats,Kg,42.2602358
+2018-19,Dire Dawa,Oils,Kg,48.41245876
+2018-19,Dire Dawa,Onion,Kg,30.40076446
+2018-19,Dire Dawa,Orange,Kg,39.3559579
+2018-19,Dire Dawa,Other cereal,Kg,150
+2018-19,Dire Dawa,Other fruit,Kg,40
+2018-19,Dire Dawa,Other prepared food,Kg,49.99999801
+2018-19,Dire Dawa,Papaya,Kg,44.22697434
+2018-19,Dire Dawa,Pasta/Macaroni,Kg,32.77927692
+2018-19,Dire Dawa,Potato,Kg,20.99798124
+2018-19,Dire Dawa,Poultry,Kg,722.8681916
+2018-19,Dire Dawa,Rice,Kg,28.66482705
+2018-19,Dire Dawa,Salt,Kg,25.1410408
+2018-19,Dire Dawa,Sesame,Kg,44.35369547
+2018-19,Dire Dawa,Shiro,Kg,54.10654396
+2018-19,Dire Dawa,Soda,Kg,65.43960307
+2018-19,Dire Dawa,Sorghum,Kg,20.51320945
+2018-19,Dire Dawa,Sugar,Kg,30.06059984
+2018-19,Dire Dawa,Sun Flower,Kg,31.99999848
+2018-19,Dire Dawa,Sweet potato,Kg,23.22261207
+2018-19,Dire Dawa,Tea,Kg,68.97525625
+2018-19,Dire Dawa,Teff,Kg,37.46159294
+2018-19,Dire Dawa,Tella,Kg,11.02857139
+2018-19,Dire Dawa,Tomato,Kg,23.62196283
+2018-19,Dire Dawa,Vetch,Kg,15
+2018-19,Dire Dawa,Wheat,Kg,24.11109454
+2018-19,Gambela,Avocado,Kg,13.10170345
+2018-19,Gambela,Banana,Kg,34.36271219
+2018-19,Gambela,Barley,Kg,30.40892621
+2018-19,Gambela,Beef,Kg,164.5631383
+2018-19,Gambela,Beer,Kg,344.4696833
+2018-19,Gambela,Beetroot,Kg,64.50181284
+2018-19,Gambela,Berbere,Kg,117.6325506
+2018-19,Gambela,Bread/biscuit,Kg,14.6873116
+2018-19,Gambela,Bula,Kg,40
+2018-19,Gambela,Butter/ghee,Kg,269.1494184
+2018-19,Gambela,Carrot,Kg,52.80553615
+2018-19,Gambela,Cassava,Kg,9.803921752
+2018-19,Gambela,Chat/Kat,Kg,146.1964338
+2018-19,Gambela,Cheese,Kg,72.95522264
+2018-19,Gambela,Chick Pea,Kg,42.40936914
+2018-19,Gambela,Coffee,Kg,96.98765868
+2018-19,Gambela,Eggs,Kg,18.26091614
+2018-19,Gambela,Fenugreek,Kg,53.31385011
+2018-19,Gambela,Field Pea,Kg,28.58557484
+2018-19,Gambela,Fish,Kg,153.7672795
+2018-19,Gambela,Garlic,Kg,94.88827514
+2018-19,Gambela,Goat & mutton meat,Kg,267.4330298
+2018-19,Gambela,Godere,Kg,13.93801192
+2018-19,Gambela,Ground nuts,Kg,84.99031401
+2018-19,Gambela,Haricot Beans,Kg,26.6242873
+2018-19,Gambela,Honey,Kg,406.9266897
+2018-19,Gambela,Hops (gesho),Kg,36.24144694
+2018-19,Gambela,Horsebeans,Kg,36.75533866
+2018-19,Gambela,Injera,Kg,21.33419462
+2018-19,Gambela,Kariya,Kg,27.19943604
+2018-19,Gambela,Kocho,Kg,26.5371223
+2018-19,Gambela,Leafy Greens,Kg,13.76740213
+2018-19,Gambela,Lentils,Kg,70.78451391
+2018-19,Gambela,Linseed,Kg,49.99999842
+2018-19,Gambela,Maize,Kg,24.58027818
+2018-19,Gambela,Mango,Kg,13.56448842
+2018-19,Gambela,Milk,Kg,32.42068947
+2018-19,Gambela,Millet,Kg,1.062801967
+2018-19,Gambela,Moringa/Shiferaw/Halloka,Kg,114.0848355
+2018-19,Gambela,Mung bean,Kg,56.81818213
+2018-19,Gambela,Niger Seed,Kg,60
+2018-19,Gambela,Oats,Kg,41.05963939
+2018-19,Gambela,Oils,Kg,76.38129954
+2018-19,Gambela,Onion,Kg,26.9550511
+2018-19,Gambela,Orange,Kg,20.80053626
+2018-19,Gambela,Other condiments,Kg,31.92848052
+2018-19,Gambela,Other prepared food,Kg,9999.999525
+2018-19,Gambela,Other pulse or nut,Kg,29.4117644
+2018-19,Gambela,Other tuber or stem,Kg,24.99999963
+2018-19,Gambela,Other vegetable,Kg,8.987143928
+2018-19,Gambela,Pasta/Macaroni,Kg,49.28976042
+2018-19,Gambela,Potato,Kg,18.77805943
+2018-19,Gambela,Poultry,Kg,686.0949416
+2018-19,Gambela,Rice,Kg,34.2327059
+2018-19,Gambela,Salt,Kg,36.67469253
+2018-19,Gambela,Sesame,Kg,89.81931442
+2018-19,Gambela,Shiro,Kg,56.45133991
+2018-19,Gambela,Soda,Kg,42.1571065
+2018-19,Gambela,Sorghum,Kg,11.60052753
+2018-19,Gambela,Sugar,Kg,47.51628913
+2018-19,Gambela,Sun Flower,Kg,40.20833345
+2018-19,Gambela,Sweet potato,Kg,7.491201447
+2018-19,Gambela,Tea,Kg,41.91630492
+2018-19,Gambela,Teff,Kg,30.12498524
+2018-19,Gambela,Tella,Kg,6.194766121
+2018-19,Gambela,Tomato,Kg,21.67282848
+2018-19,Gambela,Vetch,Kg,26.75693973
+2018-19,Gambela,Wheat,Kg,20.15189139
+2018-19,Harari,Avocado,Kg,26.58205095
+2018-19,Harari,Banana,Kg,22.97637616
+2018-19,Harari,Barley,Kg,30.29357225
+2018-19,Harari,Beef,Kg,318.797466
+2018-19,Harari,Beer,Kg,58.52153636
+2018-19,Harari,Beetroot,Kg,16.93605133
+2018-19,Harari,Berbere,Kg,93.2510846
+2018-19,Harari,Bread/biscuit,Kg,15.97356559
+2018-19,Harari,Bula,Kg,65.03698246
+2018-19,Harari,Butter/ghee,Kg,292.7443748
+2018-19,Harari,Carrot,Kg,20.63566806
+2018-19,Harari,Chat/Kat,Kg,263.1824273
+2018-19,Harari,Cheese,Kg,113.999996
+2018-19,Harari,Chick Pea,Kg,38.24022341
+2018-19,Harari,Coffee,Kg,109.35479
+2018-19,Harari,Eggs,Kg,29.04738515
+2018-19,Harari,Fenugreek,Kg,77.30397814
+2018-19,Harari,Field Pea,Kg,36.44502895
+2018-19,Harari,Garlic,Kg,509.562518
+2018-19,Harari,Goat & mutton meat,Kg,314.5224333
+2018-19,Harari,Ground nuts,Kg,65.51273774
+2018-19,Harari,Haricot Beans,Kg,17.94202065
+2018-19,Harari,Honey,Kg,247.1505618
+2018-19,Harari,Hops (gesho),Kg,39.37499967
+2018-19,Harari,Horsebeans,Kg,31.44821617
+2018-19,Harari,Injera,Kg,33.85441945
+2018-19,Harari,Kariya,Kg,34.1762686
+2018-19,Harari,Kocho,Kg,125
+2018-19,Harari,Leafy Greens,Kg,18.17876497
+2018-19,Harari,Lentils,Kg,60.69081771
+2018-19,Harari,Linseed,Kg,61.750518
+2018-19,Harari,Maize,Kg,15.75762112
+2018-19,Harari,Mango,Kg,20.35187088
+2018-19,Harari,Milk,Kg,39.9820072
+2018-19,Harari,Moringa/Shiferaw/Halloka,Kg,24.27184463
+2018-19,Harari,Niger Seed,Kg,51.90015611
+2018-19,Harari,Oats,Kg,32.93654772
+2018-19,Harari,Oils,Kg,64.00563953
+2018-19,Harari,Onion,Kg,25.36616629
+2018-19,Harari,Orange,Kg,48.78703701
+2018-19,Harari,Other prepared food,Kg,46.66666667
+2018-19,Harari,Other vegetable,Kg,159.9999924
+2018-19,Harari,Papaya,Kg,39.7761448
+2018-19,Harari,Pasta/Macaroni,Kg,31.00643112
+2018-19,Harari,Potato,Kg,13.42372171
+2018-19,Harari,Poultry,Kg,270.9173053
+2018-19,Harari,Rice,Kg,27.49216708
+2018-19,Harari,Salt,Kg,19.29573807
+2018-19,Harari,Sesame,Kg,122.7777778
+2018-19,Harari,Shiro,Kg,55.12071152
+2018-19,Harari,Soda,Kg,59.47503501
+2018-19,Harari,Sorghum,Kg,15.07750794
+2018-19,Harari,Sugar,Kg,27.49891804
+2018-19,Harari,Sun Flower,Kg,42.26782084
+2018-19,Harari,Sweet potato,Kg,19.82438068
+2018-19,Harari,Tea,Kg,97.22520424
+2018-19,Harari,Teff,Kg,30.77490629
+2018-19,Harari,Tella,Kg,11.35714284
+2018-19,Harari,Tomato,Kg,19.13151623
+2018-19,Harari,Wheat,Kg,23.22963494
+2018-19,Oromia,Avocado,Kg,18.80884665
+2018-19,Oromia,Banana,Kg,16.82392302
+2018-19,Oromia,Barley,Kg,44.48686693
+2018-19,Oromia,Beef,Kg,342.6821589
+2018-19,Oromia,Beer,Kg,61.40034905
+2018-19,Oromia,Beetroot,Kg,18.65270103
+2018-19,Oromia,Berbere,Kg,102.4028333
+2018-19,Oromia,Bread/biscuit,Kg,123.1099744
+2018-19,Oromia,Bula,Kg,54.42608087
+2018-19,Oromia,Butter/ghee,Kg,354.3692595
+2018-19,Oromia,Carrot,Kg,22.22037874
+2018-19,Oromia,Chat/Kat,Kg,107.9301373
+2018-19,Oromia,Cheese,Kg,70.67861054
+2018-19,Oromia,Chick Pea,Kg,37.3246859
+2018-19,Oromia,Coffee,Kg,117.355195
+2018-19,Oromia,Eggs,Kg,22.8363872
+2018-19,Oromia,Fenugreek,Kg,48.04707936
+2018-19,Oromia,Field Pea,Kg,36.9546475
+2018-19,Oromia,Fish,Kg,214.7435849
+2018-19,Oromia,Garlic,Kg,49.47807112
+2018-19,Oromia,Goat & mutton meat,Kg,381.5831722
+2018-19,Oromia,Ground nuts,Kg,69.94712694
+2018-19,Oromia,Haricot Beans,Kg,17.97708313
+2018-19,Oromia,Honey,Kg,136.9429702
+2018-19,Oromia,Hops (gesho),Kg,10.80553894
+2018-19,Oromia,Horsebeans,Kg,52.21028021
+2018-19,Oromia,Injera,Kg,26.59953771
+2018-19,Oromia,Kariya,Kg,16.40539818
+2018-19,Oromia,Kocho,Kg,66.76738963
+2018-19,Oromia,Leafy Greens,Kg,13.17770048
+2018-19,Oromia,Lentils,Kg,72.28715433
+2018-19,Oromia,Linseed,Kg,58.16356889
+2018-19,Oromia,Maize,Kg,11.84512037
+2018-19,Oromia,Mango,Kg,17.55255416
+2018-19,Oromia,Milk,Kg,27.56715912
+2018-19,Oromia,Millet,Kg,11.53830835
+2018-19,Oromia,Moringa/Shiferaw/Halloka,Kg,328.412689
+2018-19,Oromia,Niger Seed,Kg,66.16047541
+2018-19,Oromia,Oats,Kg,28.44895794
+2018-19,Oromia,Oils,Kg,137.9518704
+2018-19,Oromia,Onion,Kg,21.54263459
+2018-19,Oromia,Orange,Kg,19.46268561
+2018-19,Oromia,Other condiments,Kg,126.5891019
+2018-19,Oromia,Other fruit,Kg,60
+2018-19,Oromia,Other prepared food,Kg,160.6596987
+2018-19,Oromia,Other seed,Kg,64.16666667
+2018-19,Oromia,Other vegetable,Kg,56.07476595
+2018-19,Oromia,Papaya,Kg,31.25109861
+2018-19,Oromia,Pasta/Macaroni,Kg,32.95495476
+2018-19,Oromia,Potato,Kg,16.27099316
+2018-19,Oromia,Poultry,Kg,888.0938331
+2018-19,Oromia,Rice,Kg,27.39922273
+2018-19,Oromia,Salt,Kg,22.14151845
+2018-19,Oromia,Sesame,Kg,135.6386272
+2018-19,Oromia,Shiro,Kg,52.88617941
+2018-19,Oromia,Soda,Kg,49.95759282
+2018-19,Oromia,Sorghum,Kg,14.85058332
+2018-19,Oromia,Sugar,Kg,45.53408258
+2018-19,Oromia,Sun Flower,Kg,56.95482845
+2018-19,Oromia,Sweet potato,Kg,17.77285019
+2018-19,Oromia,Tea,Kg,46.02864184
+2018-19,Oromia,Teff,Kg,31.11090199
+2018-19,Oromia,Tella,Kg,8.668539758
+2018-19,Oromia,Tomato,Kg,17.67603333
+2018-19,Oromia,Vetch,Kg,25.77594282
+2018-19,Oromia,Wheat,Kg,19.60340999
+2018-19,SNNP,Avocado,Kg,12.58838949
+2018-19,SNNP,Banana,Kg,11.53106701
+2018-19,SNNP,Barley,Kg,25.541901
+2018-19,SNNP,Beef,Kg,246.7110116
+2018-19,SNNP,Beer,Kg,48.50419544
+2018-19,SNNP,Beetroot,Kg,21.54137573
+2018-19,SNNP,Berbere,Kg,80.89295691
+2018-19,SNNP,Boye/Yam,Kg,37.32489713
+2018-19,SNNP,Bread/biscuit,Kg,13.01816833
+2018-19,SNNP,Bula,Kg,90.3748313
+2018-19,SNNP,Butter/ghee,Kg,266.7344533
+2018-19,SNNP,Carrot,Kg,22.09527516
+2018-19,SNNP,Cassava,Kg,12.45034042
+2018-19,SNNP,Chat/Kat,Kg,137.0544939
+2018-19,SNNP,Cheese,Kg,59.25263854
+2018-19,SNNP,Chick Pea,Kg,35.1686389
+2018-19,SNNP,Coffee,Kg,83.51579172
+2018-19,SNNP,Eggs,Kg,18.41546968
+2018-19,SNNP,Fenugreek,Kg,108.8851031
+2018-19,SNNP,Field Pea,Kg,31.57800061
+2018-19,SNNP,Fish,Kg,10.22961518
+2018-19,SNNP,Garlic,Kg,48.58460072
+2018-19,SNNP,Goat & mutton meat,Kg,202.7408735
+2018-19,SNNP,Godere,Kg,13.26907719
+2018-19,SNNP,Ground nuts,Kg,89.08791557
+2018-19,SNNP,Haricot Beans,Kg,17.37816325
+2018-19,SNNP,Honey,Kg,105.7164583
+2018-19,SNNP,Hops (gesho),Kg,13.74476195
+2018-19,SNNP,Horsebeans,Kg,30.81408532
+2018-19,SNNP,Injera,Kg,18.83711485
+2018-19,SNNP,Kariya,Kg,14.23404556
+2018-19,SNNP,Kocho,Kg,52.81794299
+2018-19,SNNP,Leafy Greens,Kg,15.75696298
+2018-19,SNNP,Lentils,Kg,67.21243476
+2018-19,SNNP,Linseed,Kg,79.45860651
+2018-19,SNNP,Maize,Kg,13.00082914
+2018-19,SNNP,Mango,Kg,15.10588935
+2018-19,SNNP,Milk,Kg,23.55370954
+2018-19,SNNP,Millet,Kg,8.666666667
+2018-19,SNNP,Moringa/Shiferaw/Halloka,Kg,5.635996239
+2018-19,SNNP,Oats,Kg,31.9411764
+2018-19,SNNP,Oils,Kg,109.7390142
+2018-19,SNNP,Onion,Kg,20.32270442
+2018-19,SNNP,Orange,Kg,29.63288162
+2018-19,SNNP,Other fruit,Kg,73.46153987
+2018-19,SNNP,Other prepared food,Kg,41.1331773
+2018-19,SNNP,Other pulse or nut,Kg,83.33332938
+2018-19,SNNP,Other seed,Kg,119.9999943
+2018-19,SNNP,Other vegetable,Kg,9.803921752
+2018-19,SNNP,Papaya,Kg,44.93142494
+2018-19,SNNP,Pasta/Macaroni,Kg,37.35583926
+2018-19,SNNP,Potato,Kg,14.73240556
+2018-19,SNNP,Poultry,Kg,399.9999841
+2018-19,SNNP,Rice,Kg,28.4242548
+2018-19,SNNP,Salt,Kg,30.31107485
+2018-19,SNNP,Sesame,Kg,77.66666413
+2018-19,SNNP,Shiro,Kg,54.81168636
+2018-19,SNNP,Soda,Kg,47.44062784
+2018-19,SNNP,Sorghum,Kg,15.04549761
+2018-19,SNNP,Sugar,Kg,39.96771297
+2018-19,SNNP,Sun Flower,Kg,499.9999763
+2018-19,SNNP,Sweet potato,Kg,15.35981622
+2018-19,SNNP,Tea,Kg,59.95076773
+2018-19,SNNP,Teff,Kg,28.78505554
+2018-19,SNNP,Tella,Kg,5.558011763
+2018-19,SNNP,Tomato,Kg,18.08962182
+2018-19,SNNP,Wheat,Kg,20.92574561
+2018-19,Somali,Banana,Kg,45.58872264
+2018-19,Somali,Barley,Kg,28.75
+2018-19,Somali,Beef,Kg,175.9816292
+2018-19,Somali,Beetroot,Kg,29.14653566
+2018-19,Somali,Berbere,Kg,116.3056125
+2018-19,Somali,Bread/biscuit,Kg,18.42712361
+2018-19,Somali,Butter/ghee,Kg,211.5294122
+2018-19,Somali,Carrot,Kg,27.41759553
+2018-19,Somali,Chat/Kat,Kg,342.8031147
+2018-19,Somali,Cheese,Kg,12.34375534
+2018-19,Somali,Chick Pea,Kg,32.4168146
+2018-19,Somali,Coffee,Kg,117.026061
+2018-19,Somali,Eggs,Kg,22.03874492
+2018-19,Somali,Fenugreek,Kg,55
+2018-19,Somali,Field Pea,Kg,24.53921553
+2018-19,Somali,Garlic,Kg,53.88767708
+2018-19,Somali,Goat & mutton meat,Kg,206.7886474
+2018-19,Somali,Ground nuts,Kg,45.95630855
+2018-19,Somali,Haricot Beans,Kg,25.53644375
+2018-19,Somali,Honey,Kg,312.135922
+2018-19,Somali,Horsebeans,Kg,40
+2018-19,Somali,Injera,Kg,34.10719666
+2018-19,Somali,Kariya,Kg,41.54680431
+2018-19,Somali,Leafy Greens,Kg,36.14355838
+2018-19,Somali,Lentils,Kg,51.02236786
+2018-19,Somali,Linseed,Kg,46.32850273
+2018-19,Somali,Maize,Kg,17.60553351
+2018-19,Somali,Mango,Kg,35.76923077
+2018-19,Somali,Milk,Kg,26.99717961
+2018-19,Somali,Oils,Kg,66.6860651
+2018-19,Somali,Onion,Kg,30.25770386
+2018-19,Somali,Orange,Kg,69.56043976
+2018-19,Somali,Other condiments,Kg,38.46153987
+2018-19,Somali,Other prepared food,Kg,112.7922027
+2018-19,Somali,Other seed,Kg,85
+2018-19,Somali,Other vegetable,Kg,3.571428518
+2018-19,Somali,Pasta/Macaroni,Kg,35.93721806
+2018-19,Somali,Potato,Kg,29.45445943
+2018-19,Somali,Rice,Kg,31.49874326
+2018-19,Somali,Salt,Kg,32.62749585
+2018-19,Somali,Sesame,Kg,39.97777778
+2018-19,Somali,Shiro,Kg,69.4696344
+2018-19,Somali,Soda,Kg,42.9428483
+2018-19,Somali,Sorghum,Kg,17.13632469
+2018-19,Somali,Sugar,Kg,30.22056625
+2018-19,Somali,Tea,Kg,60.0262209
+2018-19,Somali,Teff,Kg,33.75
+2018-19,Somali,Tomato,Kg,31.95146812
+2018-19,Somali,Wheat,Kg,26.15081535
+2018-19,Tigray,Avocado,Kg,41.09061488
+2018-19,Tigray,Banana,Kg,107.0763862
+2018-19,Tigray,Barley,Kg,19.53320762
+2018-19,Tigray,Beef,Kg,245.2691099
+2018-19,Tigray,Beer,Kg,87.64369924
+2018-19,Tigray,Beetroot,Kg,26.49999997
+2018-19,Tigray,Berbere,Kg,91.97232323
+2018-19,Tigray,Bread/biscuit,Kg,58.43818814
+2018-19,Tigray,Butter/ghee,Kg,289.0546
+2018-19,Tigray,Carrot,Kg,19.19413756
+2018-19,Tigray,Cheese,Kg,40
+2018-19,Tigray,Chick Pea,Kg,37.46551564
+2018-19,Tigray,Coffee,Kg,121.1454185
+2018-19,Tigray,Eggs,Kg,23.08063837
+2018-19,Tigray,Fenugreek,Kg,71.9454979
+2018-19,Tigray,Field Pea,Kg,37.32597369
+2018-19,Tigray,Fish,Kg,62.5
+2018-19,Tigray,Garlic,Kg,76.75295188
+2018-19,Tigray,Goat & mutton meat,Kg,225.7969271
+2018-19,Tigray,Ground nuts,Kg,72.88482705
+2018-19,Tigray,Haricot Beans,Kg,30
+2018-19,Tigray,Honey,Kg,276.4597732
+2018-19,Tigray,Hops (gesho),Kg,79.85480757
+2018-19,Tigray,Horsebeans,Kg,32.9576681
+2018-19,Tigray,Injera,Kg,44.99446966
+2018-19,Tigray,Kariya,Kg,27.0042604
+2018-19,Tigray,Leafy Greens,Kg,19.68160966
+2018-19,Tigray,Lentils,Kg,66.4634676
+2018-19,Tigray,Linseed,Kg,42.34808692
+2018-19,Tigray,Maize,Kg,18.90712765
+2018-19,Tigray,Mango,Kg,30.09501105
+2018-19,Tigray,Milk,Kg,40.08806071
+2018-19,Tigray,Millet,Kg,16.51374712
+2018-19,Tigray,Mung bean,Kg,58.82352879
+2018-19,Tigray,Niger Seed,Kg,34
+2018-19,Tigray,Oats,Kg,74.49999848
+2018-19,Tigray,Oils,Kg,78.04878941
+2018-19,Tigray,Onion,Kg,24.88143249
+2018-19,Tigray,Orange,Kg,38.19298243
+2018-19,Tigray,Other condiments,Kg,14.15384647
+2018-19,Tigray,Other fruit,Kg,13.99999984
+2018-19,Tigray,Other prepared food,Kg,143.0606433
+2018-19,Tigray,Other seed,Kg,100
+2018-19,Tigray,Papaya,Kg,29
+2018-19,Tigray,Pasta/Macaroni,Kg,35.97346015
+2018-19,Tigray,Potato,Kg,18.26940071
+2018-19,Tigray,Poultry,Kg,604.0886018
+2018-19,Tigray,Rice,Kg,33.53424648
+2018-19,Tigray,Salt,Kg,27.77904997
+2018-19,Tigray,Sesame,Kg,260.6428306
+2018-19,Tigray,Shiro,Kg,55.81644572
+2018-19,Tigray,Soda,Kg,57.00840479
+2018-19,Tigray,Sorghum,Kg,15.99945627
+2018-19,Tigray,Sugar,Kg,52.4599141
+2018-19,Tigray,Sun Flower,Kg,47.30314913
+2018-19,Tigray,Sweet potato,Kg,24.47674407
+2018-19,Tigray,Tea,Kg,44.02564218
+2018-19,Tigray,Teff,Kg,42.78116419
+2018-19,Tigray,Tella,Kg,8.421972887
+2018-19,Tigray,Tomato,Kg,16.89453801
+2018-19,Tigray,Vetch,Kg,27.8878813
+2018-19,Tigray,Wheat,Kg,20.18105842
