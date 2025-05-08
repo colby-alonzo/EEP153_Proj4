@@ -12,6 +12,8 @@ This project examines strategies to reduce undernutrition in Ethiopia through ec
 
 - **Conditional Cash Transfers (CCTs):** Raising household purchasing power to improve overall diet quality  
 - **Biofortification:** Increasing nutrient density in commonly consumed foods to target specific deficiencies
+- **Milk Supply Subsidy:** Reducing the market price of milk to support calcium and protein intake  
+- **Forestry Support Policy:** Promoting access to nutrient-dense forest foods (like leafy greens) by improving conservation and collection access
 
 ## Topics Covered
 
